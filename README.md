@@ -1,4 +1,4 @@
-# My First GitHub Actions
+# First GitHub Actions
 
 This repository contains a simple Python project that uses GitHub Actions for Continuous Integration (CI). The workflow runs on a self-hosted runner hosted on an AWS EC2 instance.
 
