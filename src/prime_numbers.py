@@ -20,3 +20,4 @@ def test_is_prime():
     assert is_prime(-5) is False, "Test case 8 failed"
     
     print("All test cases passed!")
+print("---")
